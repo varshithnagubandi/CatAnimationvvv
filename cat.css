@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.maindiv {
+  background-color: black;
+  height: 100vh;
+}
+.bulbimage {
+  height: 200px;
+  width: 300px;
+}
+.items {
+  text-align: center;
+}
+.catimage {
+  height: 300px;
+  width: 400px;
+  padding-bottom: 20px;
+}
+.boxback {
+  background-color: lavender;
+  height: 150px;
+  width: 250px;
+  border-radius: 15px;
+}
+.items-cen {
+  display: flex;
+  justify-content: center;
+}
+.textdec {
+  font-size: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.button {
+  height: 50px;
+  width: 75px;
+  border-radius: 15px;
+  color: black;
+}
